@@ -249,8 +249,8 @@ public class TestJob {
 		p1.process();
 		p1.output();
 		
-		
-
+		//주말 공부
+        //입사 년월일 
 	}
 
 }
