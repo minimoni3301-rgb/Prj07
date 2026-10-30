@@ -13,7 +13,7 @@ num,name,kor,eng,mat
 
 
 // 2번 ========================================
-/* csv format- commprivate String seperator variable
+/* csv format- comma seperator variable
 1,P01,10,1250.0
 2,P02,15,2000.0
 3,P03,30,1500.0
@@ -22,7 +22,9 @@ num,name,kor,eng,mat
 */
   // 입력:번호,제품코드,수량,단가
   //      num, pcode, amount, price
+  
   // P01:새우깡, P02:빅파이, P03:짱구, P04:초코파이, P05:수박맛초코파이
+  
   // 출력:번호,제품명,수량,단가,금액(수량*단가)
   //      num, pname, amount, price, kum
 
